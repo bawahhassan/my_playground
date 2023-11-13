@@ -1,2 +1,2 @@
 # my_playground
-Thi is aplayground
+Thi is playground
